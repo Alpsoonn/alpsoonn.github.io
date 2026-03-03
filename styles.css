@@ -375,3 +375,59 @@ h2 {
         transform: translateY(0);
     }
 }
+
+/* ============================
+   RESPONSYWNOŚĆ (Mobile/Tablet)
+   ============================ */
+@media (max-width: 768px) {
+    .navbar {
+        flex-direction: column;
+        padding: 1rem 5%;
+        gap: 1rem;
+    }
+
+    .nav-links {
+        gap: 1.2rem;
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+
+    .hero-content h1 {
+        font-size: 2.5rem;
+    }
+
+    section:not(.hero) {
+        padding: 80px 5%;
+    }
+
+    .glass-card {
+        padding: 1.5rem;
+    }
+
+    .project-grid {
+        grid-template-columns: 1fr;
+    }
+
+    .close-modal {
+        top: 15px;
+        right: 20px;
+        font-size: 40px;
+    }
+
+    .modal-nav {
+        font-size: 1.5rem;
+        padding: 0.8rem 0.5rem;
+    }
+
+    .modal-nav.prev {
+        left: 1vw;
+    }
+
+    .modal-nav.next {
+        right: 1vw;
+    }
+
+    .project-card img {
+        height: 200px;
+    }
+}
