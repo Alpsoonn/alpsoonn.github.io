@@ -1,0 +1,3 @@
+Wykonano miniaturowy model szafy elektroenergetycznej w skali 1:10, odwzorowując kluczowe elementy charakterystyczne dla standardów firmy, dla której powstało zlecenie. Model prezentuje system zasilania gwarantowanego z zachowaniem proporcji i funkcjonalności istotnych dla realnego urządzenia.
+
+Szafa została zaprojektowana w sposób modułowy, a zastosowanie elementów uniwersalnych pozwala na modyfikację rozmiaru modelu przy minimalnej zmianie poszczególnych komponentów, co zwiększa elastyczność i możliwości adaptacyjne projektu.

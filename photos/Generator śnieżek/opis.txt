@@ -1,0 +1,3 @@
+Napisałem program w języku OpenSCAD do automatycznego generowania śnieżek, który udostępniłem na MakerWorld. Generator oferuje praktycznie nieskończone kombinacje wzorów, pozwalając na tworzenie unikatowych modeli przy każdym użyciu.
+
+Dodatkowo wbudowane funkcje umożliwiają przygotowanie śnieżek z zawieszką lub jako podstawkę pod naczynia, co czyni projekt praktycznym i dekoracyjnym rozwiązaniem, idealnym na okres świąteczny.

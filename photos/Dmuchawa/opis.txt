@@ -1,0 +1,5 @@
+Model stanowił pierwszą styczność z bezszczotkowymi silnikami, co umożliwiło zdobycie praktycznego doświadczenia w zakresie ich doboru, sterowania oraz integracji z układem zasilania. Zastosowano autorskie podejście do projektowania obudowy dmuchawy o podwyższonej wydajności, zoptymalizowanej pod kątem przepływu powietrza oraz efektywności pracy.
+
+Konstrukcję zasilono pakietem złożonym z trzech ogniw 18650 w konfiguracji 3S. Zintegrowano system ładowania przez USB C z obsługą standardu Quick Charge, co zapewnia wygodne i szybkie ładowanie przy zachowaniu kompaktowej formy urządzenia.
+
+Końcówkę dmuchawy wyposażono we wdrukowane magnesy, co umożliwia montaż wymiennych, nietypowych końcówek bez stosowania widocznych elementów mocujących. Rozwiązanie to pozwala zachować estetykę oraz minimalistyczny charakter konstrukcji.

@@ -1,0 +1,3 @@
+Zaprojektowano powerbank o niestandardowych wymiarach, zwiększonej pojemności oraz wysokiej gęstości energii, zoptymalizowany pod kątem maksymalnego wykorzystania dostępnej przestrzeni w możliwie najmniejszej obudowie. Konstrukcja została opracowana z naciskiem na rzeczywistą wydajność energetyczną oraz transparentne parametry techniczne.
+
+Wewnątrz zastosowano dwanaście ogniw 21700 o pojemności 5000 mAh każde, co przekłada się na łączną energię rzędu około 230 Wh, w zależności od konfiguracji połączeń oraz napięcia nominalnego pakietu. Projekt powstał w odpowiedzi na powszechne zawyżanie parametrów w komercyjnych powerbankach i stanowi próbę stworzenia urządzenia o realnych, weryfikowalnych osiągach.

@@ -1,0 +1,3 @@
+Zaprojektowano osłonę dedykowaną dla drona FPV klasy 5 cali, z naciskiem na ochronę kluczowych elementów konstrukcyjnych. Zastosowano niestandardowe podejście do zabezpieczenia ramion poprzez ich zintegrowaną osłonę wraz z dodatkowymi osłonami silników, co zwiększa odporność na uszkodzenia mechaniczne.
+
+Podczas projektowania szczególną uwagę poświęcono geometrii zewnętrznej, dążąc do uzyskania opływowej, aerodynamicznej formy. Konstrukcja łączy funkcję ochronną z minimalizacją oporów powietrza oraz zachowaniem estetyki i spójności wizualnej modelu.

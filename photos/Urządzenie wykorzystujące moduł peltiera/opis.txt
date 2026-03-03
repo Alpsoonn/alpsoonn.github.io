@@ -1,0 +1,3 @@
+W projekcie zrealizowano pierwsze podejście do zastosowania modułów Peltiera w kompaktowym urządzeniu chłodzącym. Konstrukcję przystosowano do zasilania napięciem 12 V lub przez USB C z obsługą Quick Charge 12 V, co zapewnia elastyczność użytkowania.
+
+Na potrzeby optymalizacji przepływu powietrza wewnątrz obudowy autorsko zaprojektowano i wymodelowano śmigło silnika, dostosowane do charakterystyki pracy układu chłodzenia. Projekt miał charakter proof of concept, ponieważ z punktu widzenia termodynamiki schłodzone powietrze opada, w związku z czym puszka ustawiona na urządzeniu ulega wychłodzeniu głównie w dolnej części, bez równomiernego obniżenia temperatury na całej powierzchni.

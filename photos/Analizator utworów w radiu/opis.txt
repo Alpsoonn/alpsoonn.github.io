@@ -1,0 +1,3 @@
+Zainspirowany irytującą powtarzalnością utworów w radiu, napisałem program do analizy ciągłości emisji muzyki. Skrypt w Pythonie, uruchomiony na Raspberry Pi, łączy się z API stacji radiowej i zapisuje dane o utworach w formacie JSON na lokalnym serwerze NAS. Dzięki temu urządzenie może pracować 24/7 bez przerwy i bez większego obciążenia systemu.
+
+Drugi skrypt, uruchamiany na komputerze, przetwarza te dane w formę wizualną, tworząc czytelne i intuicyjne przedstawienie informacji o odtwarzanych utworach. Rozwiązanie pozwala w prosty sposób monitorować powtarzalność muzyki i analizować emisję w czasie rzeczywistym.

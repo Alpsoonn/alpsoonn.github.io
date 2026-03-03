@@ -1,0 +1,3 @@
+Opracowano element zębatki do samochodu zdalnie sterowanego z autorskimi modyfikacjami konstrukcyjnymi. Wprowadzono ulepszenia obejmujące między innymi poszerzenie osi skrętnej kół w celu zwiększenia stabilności oraz poprawy charakterystyki prowadzenia.
+
+Model wykonano na podstawie oryginalnego komponentu, przeprowadzając szczegółowe pomiary suwmiarką w celu zachowania zgodności wymiarowej oraz zapewnienia pełnej kompatybilności z istniejącym układem mechanicznym.

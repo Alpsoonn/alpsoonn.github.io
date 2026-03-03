@@ -1,0 +1,3 @@
+Wymodelowano czołg IS-7 w skali 1:30 z zachowaniem wysokiego poziomu detali oraz funkcjonalności mechanicznej. Kluczowe elementy konstrukcyjne, takie jak wieża, działo, koła i gąsienice, wykonano jako w pełni ruchome, co umożliwia realistyczne odwzorowanie pracy układu jezdnego i systemu uzbrojenia.
+
+W kolejnym etapie przewidziano elektryfikację modelu z wykorzystaniem silników szczotkowych, serwomechanizmów oraz kontrolera lotu stosowanego w systemach FPV. Planowana jest integracja kamery FPV, systemu automatycznego strzelania oraz symulacji spalin z użyciem grzałek sonicznych, co pozwoli uzyskać zaawansowany model zdalnie sterowany o wysokim poziomie realizmu i funkcjonalności.

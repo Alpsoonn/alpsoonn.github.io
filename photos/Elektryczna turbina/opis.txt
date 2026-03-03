@@ -1,0 +1,3 @@
+Zrealizowano kolejne podejście do dmuchawy, tym razem wykorzystując silnik trójfazowy bezpośrednio pochodzący z drona FPV klasy 5 cali. Śmigło zaprojektowano autorsko w celu maksymalizacji efektywności przepływu powietrza oraz wydajności całego układu.
+
+Urządzenie miało charakter turbo elektrycznego systemu dmuchającego, zasilanego ogniwami w konfiguracji 3S, przy maksymalnej orientacyjnej mocy około 200 W. Projekt pełnił funkcję proof of concept dla szybkiego pompowania materacy, basenów i balonów, pozwalając na praktyczne sprawdzenie koncepcji i wydajności zastosowanego napędu oraz układu dmuchawy.

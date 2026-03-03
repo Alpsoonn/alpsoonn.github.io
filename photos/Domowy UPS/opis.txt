@@ -1,0 +1,3 @@
+Opracowano obudowę dla ręcznie zbudowanego systemu UPS przeznaczonego do podtrzymania zasilania routera Wi-Fi oraz serwera NAS w przypadku przerwy w dostawie prądu. Konstrukcja została zaprojektowana z myślą o bezpieczeństwie, ergonomii oraz optymalnym rozmieszczeniu komponentów wewnętrznych.
+
+Do zasilania zastosowano pakiet ogniw w konfiguracji 3S5P, co zapewnia znaczną pojemność i umożliwia długotrwałe podtrzymanie zasilania w warunkach braku energii sieciowej, gwarantując ciągłość pracy kluczowych urządzeń domowych.
